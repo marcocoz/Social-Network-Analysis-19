@@ -1,4 +1,5 @@
-# Napoli Road Networks - Punti di interesse e quotazioni immobiliari 
+# Napoli Road Networks - 
+Punti di interesse e quotazioni immobiliari 
 
 Progetto per l'esame di Social Network Analysis 2019, Data Science and Business Informatics, Università di Pisa,
 Prof. Dino Pedreschi Prof. Giulio Rossetti,
